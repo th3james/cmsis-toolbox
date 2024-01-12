@@ -221,7 +221,7 @@ project:
 
 ### Context
 
-A [`context:`](YML-Input-Format.md#context-name-conventions) identifies a configuration with `project-name`, `built-type`, and `target-type` and is used on various places in the CMSIS-Toolbox.  The following syntax is used to specify a `context:` name.
+A [`context:`](YML-Input-Format.md#context-name-conventions) identifies a configuration with `project-name`, `build-type`, and `target-type` and is used on various places in the CMSIS-Toolbox.  The following syntax is used to specify a `context:` name.
 
 `Sample.Debug+FRDM-K32L3A6`
 
